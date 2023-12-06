@@ -1,6 +1,11 @@
+<style>
+  img{max-height:220px;}
+  
+</style>
 <picture>
 <img alt="My english level" src="unnamed.png">
 </picture>
+
 
 👋 Hi, I'm @w4ri0
 
