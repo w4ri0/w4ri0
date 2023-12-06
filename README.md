@@ -1,9 +1,6 @@
-<style>
-  img{max-height:220px;}
-  
-</style>
+
 <picture>
-<img alt="My english level" src="unnamed.png">
+<img style='height: 80%; width: 80%; object-fit: contain' alt="My english level" src="unnamed.png">
 </picture>
 
 
