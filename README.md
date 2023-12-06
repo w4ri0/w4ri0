@@ -1,5 +1,5 @@
 <picture>
-<img style='height: 50%; width: 50%; alt="My english level" src="unnamed.png">
+<img alt="My english level" src="unnamed.png">
 </picture>
 👋Hi, I'm @w4ri0, a 23 y/o french develloper 🇫🇷
 
