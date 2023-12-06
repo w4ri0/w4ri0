@@ -1,12 +1,35 @@
-👋&nbsp;Hi, I'm @w4ri0, a 23 y/o french develloper 🇫🇷
+<h1 align="center">Hi 👋, I'm W4ri0</h1>
+<h3 align="center">A passionate frontend developer from France 🇫🇷</h3>
 
-👀 I'm interested in exploring the ever-evolving landscape of web development, particularly in the areas of front-end design and back-end development. I'm fascinated by the intricate workings of web applications and the creative possibilities they offer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=w4ri0&label=Profile%20views&color=0e75b6&style=flat" alt="w4ri0" /> </p>
 
-🌱 I'm currently learning the fundamentals of web development, including HTML, CSS, and JavaScript. I'm also exploring various frameworks and libraries, such as React and Node.js, to expand my skillset and tackle more complex projects.
+- 🔭 I’m currently working in [DIGITANIE](https://digitanie.org/)
 
-💞️ I'm eager to collaborate with fellow developers, whether experienced veterans or enthusiastic newcomers, to learn from their expertise and contribute my own knowledge and skills. I'm particularly interested in working on open-source projects and participating in hackathons to gain valuable experience and make a tangible impact.
+- 🌱 I’m currently learning **HTML YAML CSS3 SASS UIKIT JS PYTHON REACT PHP NODE**
 
-📫 You can reach me via email at  or through direct messages on social media platforms like Twitter and GitHub. I'm always open to connecting with fellow developers and discussing our shared passion for web development.
+- 🤝 I’m looking for help with **Anything frontend**
+
+- 👨‍💻 All of my projects are available at [https://dagon-gabriel.w3spaces.com/index.html](https://dagon-gabriel.w3spaces.com/index.html)
+
+- 💬 Ask me about **For now NOTHING ,i'm still learning**
+
+- 📫 How to reach me **gabriel.dagon.pro@gmail.com**
+
+- ⚡ Fun fact **Music is just some wind 🌬️**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w4ri0&show_icons=true&locale=en&layout=compact" alt="w4ri0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w4ri0&show_icons=true&locale=en" alt="w4ri0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w4ri0&" alt="w4ri0" /></p>
+
 <picture>
 <img alt="My english level" src="unnamed.png">
 </picture>
