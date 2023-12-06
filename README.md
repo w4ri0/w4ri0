@@ -1,3 +1,7 @@
+<picture>
+<img alt="My english level" src="unnamed.png">
+</picture>
+
 👋 Hi, I'm @w4ri0
 
 👀 I'm interested in exploring the ever-evolving landscape of web development, particularly in the areas of front-end design and back-end development. I'm fascinated by the intricate workings of web applications and the creative possibilities they offer.
