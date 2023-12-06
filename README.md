@@ -1,7 +1,7 @@
 <picture>
-<img style='height: 50%; width: 50% alt="My english level" src="unnamed.png">
+<img style='height: 50%; width: 50%; alt="My english level" src="unnamed.png">
 </picture>
-👋&nbsp;Hi, I'm @w4ri0, a 23 y/o french develloper 🇫🇷
+👋Hi, I'm @w4ri0, a 23 y/o french develloper 🇫🇷
 
 👀 I'm interested in exploring the ever-evolving landscape of web development, particularly in the areas of front-end design and back-end development. I'm fascinated by the intricate workings of web applications and the creative possibilities they offer.
 
