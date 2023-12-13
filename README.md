@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in [DIGITANIE](https://digitanie.org/)
 
-- 🌱 I’m currently learning **HTML YAML CSS3 SASS UIKIT JS PYTHON REACT PHP NODE**
+- 🌱 I’m currently learning **HTML CSS3 UIKIT JS PYTHON REACT PHP NODE**
 
 - 🤝 I’m looking for help with **Anything frontend**
 
