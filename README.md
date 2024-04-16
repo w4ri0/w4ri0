@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Anything frontend**
 
-- 👨‍💻 All of my projects are available at [https://dagon-gabriel.w3spaces.com/index.html](https://dagon-gabriel.w3spaces.com/index.html)
+- 👨‍💻 All of my projects are available at [https://gabriel-dagon.fr](https://gabriel-dagon.fr)
 
 - 💬 Ask me about **For now NOTHING ,i'm still learning**
 
